@@ -1,0 +1,69 @@
+Build a modern, responsive marketing website for an EdTech product using React, TypeScript, TailwindCSS, and shadcn/ui components. 
+The website should look professional, clean, and appealing to both students (grades 8–12) and their parents/teachers. 
+
+Product Concept:
+The platform leverages students’ handwritten answer sheets (scanned or uploaded) to derive deeper insights into their learning patterns. 
+It evaluates not just marks but conceptual understanding, ability to recall formulas, accuracy in mathematical calculations, reading comprehension, 
+and how well they interpret questions. Based on these factors, the system generates personalized reports highlighting strengths and improvement 
+areas in each subject.
+
+Target Audience:
+- Students between grades 8 and 12
+- Parents who want detailed progress insights
+- Schools and coaching institutes that want to adopt better assessment analytics
+
+Pages & Sections to Include:
+1. **Home Page**:
+   - Hero section with product tagline like: 
+     "Transform Answer Sheets into Insights: Unlock Every Student’s True Potential."
+   - Call-to-action button: “Get Early Access” / “Request a Demo”.
+   - Eye-catching illustration or animation of handwritten sheets turning into a dashboard.
+
+2. **Features Page**:
+   - Cards/sections that explain features:
+     • Concept Understanding Analysis  
+     • Formula Recall Tracking  
+     • Accuracy in Calculations  
+     • Reading & Question Interpretation  
+     • Personalized Strengths & Weakness Reports  
+   - Include icons or visuals for each.
+
+3. **How It Works**:
+   - Step-by-step flow:
+     Upload Handwritten Sheet → AI Processing → Insights Dashboard → Personalized Report.
+   - Include simple graphics or a timeline component.
+
+4. **Why It Matters (Impact Section)**:
+   - For Students: Better self-awareness, focused improvement.  
+   - For Parents: Clearer picture beyond grades.  
+   - For Schools: Data-driven teaching and targeted support.  
+
+5. **Testimonials / Case Study Section** (placeholder for now).
+
+6. **Pricing (Placeholder)**:
+   - Basic (free demo), Premium (personalized reports), Institutional Plan.
+
+7. **Contact / Demo Form**:
+   - Simple form (name, email, role: student/parent/teacher, message).
+   - Button: “Schedule a Demo”.
+
+8. **Footer**:
+   - Links to About, Contact, Privacy Policy.
+   - Social icons.
+
+Design Style:
+- Clean, modern, minimal with academic/tech aesthetic.
+- Soft color palette (blue, green, white).
+- Rounded card components with subtle shadows.
+- Use shadcn/ui for forms, cards, buttons, navbar, and testimonial carousel.
+- Mobile-friendly and responsive.
+
+Extra:
+- Add subtle scroll animations (Framer Motion).
+- SEO-friendly structure with meta tags for education, edtech, answer sheet analysis, grades 8–12, personalized learning.
+- Modular folder structure so more sections can be added easily.
+
+Deliverables:
+- A production-ready React + TypeScript + TailwindCSS + shadcn/ui codebase.
+- Include dummy text and placeholders for images/illustrations.
+- Export the main component as default for preview in Replit.
